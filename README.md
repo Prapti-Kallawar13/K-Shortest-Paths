@@ -12,7 +12,7 @@ The execution of Yen’s algorithm and its variations yields k shortest paths, a
 **Number of Times Dijkstra Called:** Indicates the computational load and efficiency in terms of algorithmic steps. 
 
 ## Analysis  
-From the comparative analysis presented in the graphs, it is observed that both One to One Yen’s and Bidirectional Yen’s algorithms improve upon the original Yen’s algorithm. These variations offer enhancements in terms of computational efficiency and effectiveness in finding k shortest paths.  
+Comparative Analysis of graph is done based on nodes in the graph and the number of paths to be found(i.e k).Here the 25 nodes graph is considered and result is shown in the result_graph file.From the analysis presented in the graphs, it is observed that both One to One Yen’s and Bidirectional Yen’s algorithms improve upon the original Yen’s algorithm. These variations offer enhancements in terms of computational efficiency and effectiveness in finding k shortest paths.  
 
 
 
